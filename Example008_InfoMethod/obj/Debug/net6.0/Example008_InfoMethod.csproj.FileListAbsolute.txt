@@ -1,0 +1,15 @@
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\bin\Debug\net6.0\Example008_InfoMethod.exe
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\bin\Debug\net6.0\Example008_InfoMethod.deps.json
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\bin\Debug\net6.0\Example008_InfoMethod.runtimeconfig.json
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\bin\Debug\net6.0\Example008_InfoMethod.dll
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\bin\Debug\net6.0\Example008_InfoMethod.pdb
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\obj\Debug\net6.0\Example008_InfoMethod.csproj.AssemblyReference.cache
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\obj\Debug\net6.0\Example008_InfoMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\obj\Debug\net6.0\Example008_InfoMethod.AssemblyInfoInputs.cache
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\obj\Debug\net6.0\Example008_InfoMethod.AssemblyInfo.cs
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\obj\Debug\net6.0\Example008_InfoMethod.csproj.CoreCompileInputs.cache
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\obj\Debug\net6.0\Example008_InfoMethod.dll
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\obj\Debug\net6.0\refint\Example008_InfoMethod.dll
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\obj\Debug\net6.0\Example008_InfoMethod.pdb
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\obj\Debug\net6.0\Example008_InfoMethod.genruntimeconfig.cache
+C:\Users\okres\Desktop\GeekBrains\Examples\Example008_InfoMethod\obj\Debug\net6.0\ref\Example008_InfoMethod.dll
